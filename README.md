@@ -1,9 +1,9 @@
 # SistWebZen2
 
-## Necessário ter o NodeJs.
-## O Banco de dados : postgres com knex, utilizando a porta 3000 ((verificar antes se a porta esta desocupada)
-## É necessário instalar o knex de forma global: no cmd, npm i -g knex
-## Será necessário criar um banco de dados pelo postgres. Pelo cmd, dentro de backend, colocar o comando: create.database<nome de sua preferência>
+1. Necessário ter o NodeJs.
+2. O Banco de dados : postgres com knex, utilizando a porta 3000 ((verificar antes se a porta esta desocupada)
+3. É necessário instalar o knex de forma global: no cmd, npm i -g knex
+4. Será necessário criar um banco de dados pelo postgres. Pelo cmd, dentro de backend, colocar o comando: create.database<nome de sua preferência>
 
 ## A Aplicação esta em duas pastas Backend e Front end.
 ## Antes de acessar as aplicações as dependencias devem ser instaladas:
